@@ -1,0 +1,15 @@
+.bedRoom{
+    width:100%;
+    text-align: center;
+    font-size:25px;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid #ff0019;
+    border-radius: 18px;
+    box-shadow:8px 8px 12px purple;
+}
